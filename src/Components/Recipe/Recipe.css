@@ -1,0 +1,10 @@
+.img {
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 1em;
+}
+
+.img+p {
+    width: 520px;
+}

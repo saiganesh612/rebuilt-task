@@ -1,0 +1,11 @@
+.row>* {
+    padding: 0 !important;
+}
+
+.card:hover {
+    cursor: pointer;
+}
+
+.card img {
+    height: 200px;
+}
